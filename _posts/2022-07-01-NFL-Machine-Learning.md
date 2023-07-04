@@ -656,13 +656,8 @@ ggplot(aes(x = ydstogo , y = PredictedProb)) +
             size = 1)
 ```
 
-    ## Warning: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
-    ## ℹ Please use `linewidth` instead.
-    ## This warning is displayed once every 8 hours.
-    ## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
-    ## generated.
 
-![](C:/Users/ti462/Downloads/reports/Using-Logistic-Regression-to-predict-Play-Type--1-_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](https://raw.githubusercontent.com/sbudataanlyst/nbaproject/main/000020.png)<!-- -->
 Confusion Matrix
 
 ``` r
