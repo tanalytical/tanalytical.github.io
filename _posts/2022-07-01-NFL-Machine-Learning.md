@@ -679,6 +679,10 @@ sum(diag(accuracy))/sum(accuracy)
 
     ## [1] 0.6287572
 
+![](https://raw.githubusercontent.com/sbudataanlyst/nbaproject/main/000012.png)<!-- -->
+Confusion Matrix
+
+
 ``` r
 confusionMatrix(data = p_class,  #predicted classes
                 reference = testing$play_type_factor) #true results ) 
