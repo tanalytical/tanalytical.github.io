@@ -2,10 +2,8 @@
 title: "Using Machine Learning to Predict the Outcome of a Play in the National Football League"
 date: 2023-07-01 00:00:00 + 0000
 categories: [NFL PBP]
-tags: [NFL,PBP,Regression]
+tags: [NFL,PBP,Regression, Machine Learning]
 ---
-
-
 
 I will be using supervised learning algorithms to predict the
 categorical outcome of a play in the National Football League using 2009
