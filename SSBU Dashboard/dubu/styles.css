@@ -1,0 +1,17 @@
+
+    /* background: linear-gradient(31deg, #6f1919 18%, #9c1f1f 18%, #9c1f1f 27%, #ea2c2c 27%); */
+
+
+    /* background: linear-gradient(31deg, #0069ef 18%, #4087e0 18%, #4087e0 27%, #3c93ff 27%) !important; */
+    /* border-left: 3px solid #3b92fe !important; */
+
+
+    #plot{
+        background: rgb(2,0,36);
+        background: linear-gradient(30deg, rgba(2,0,36,1) 0%, rgba(9,66,121,1) 8%, rgba(5,81,167,1) 27%, rgba(255,63,63,1) 54%, rgba(204,27,27,1) 94%);
+
+    }
+
+    .container-fluid{
+        padding: 0px !important;
+    }

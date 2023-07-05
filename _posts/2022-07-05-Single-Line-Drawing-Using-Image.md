@@ -15,6 +15,7 @@ Original | Scribble
 
 Note to self: Try using different algorithms to solve the traveling sales man problem that creates this image: Nearest Neighbors, Greedy, Random Insertion, k-Opt. Incrementally changing curvature and ncp may also lead to interesting images. This code needs to be optimized. 
 
+
 ```
 library(imager)
 library(tidyverse)
