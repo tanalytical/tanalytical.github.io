@@ -679,8 +679,8 @@ sum(diag(accuracy))/sum(accuracy)
 
     ## [1] 0.6287572
 
-![](https://raw.githubusercontent.com/sbudataanlyst/nbaproject/main/000012.png)<!-- -->
-Confusion Matrix
+
+![plot](https://raw.githubusercontent.com/sbudataanlyst/nbaproject/main/000012.png)<!-- -->
 
 
 ``` r
