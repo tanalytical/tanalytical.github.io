@@ -7,13 +7,11 @@ tags: [NFL,PBP,Regression, Machine Learning]
 
 I will be using supervised learning algorithms to predict the
 categorical outcome of a play in the National Football League using 2009
-to 2023 play-by-play NFL data provided by nflfastR. I see the future of
-the NFL to have data scientists with fast computing machines to predict
-real time the next play. Would this ruin the game? Maybe. But I am
+to 2023 play-by-play NFL data provided by nflfastR. In the future I imagine there will be data scientists in the defensive coordinators headset what the next play might be with a certain degree of confidence. Would this ruin the game? Maybe. But I am
 confident that football, a sport that is dear to my heart, will become
-more exciting as time goes on.
+more exciting as time goes on. On a side note: I really wish there was open access to play by play x y coordinates of the ball and players.
 
-### Load libraries
+Load libraries
 ``` r
 library(sjlabelled)
 library(labelled)
@@ -23,7 +21,7 @@ library(tidyverse)
 library(gtsummary)
 ```
 
-### Load Data
+Load Data
 
 ``` r
 pbp <- load_pbp(c(2020:2022)) 
@@ -43,7 +41,7 @@ data <- pbp %>%
                                      "Tie" = 2))
 ```
 
-### Factor categorical variables
+Factor categorical variables
 
 ``` r
 data_logreg <- data %>%
@@ -645,7 +643,7 @@ head(newdata3, 5)
     ## 5:     0.7613170
 
 Looks like the predicted probability goes down as the yards to go
-increases The predicted probability is highest with the first down
+increases The predicted probability is highest in the third down
 
 ``` r
 newdata3 %>%

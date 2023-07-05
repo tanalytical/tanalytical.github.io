@@ -10,10 +10,8 @@ The following R code is adapted from fronkenstin's scribble post. My code adds a
 
 Original | Scribble
 --- | ---
-![](https://raw.githubusercontent.com/sbudataanlyst/nbaproject/main/IMG_8683%20(1).jpg) | ![](https://raw.githubusercontent.com/tanalytical/tanalytical.github.io/main/myimages/dudu2.gif)
+![](https://raw.githubusercontent.com/sbudataanlyst/nbaproject/main/IMG_8683%20(1).jpg) | ![](https://raw.githubusercontent.com/tanalytical/tanalytical.github.io/main/myimages/popo.gif)
 
-
-Note to self: Try using different algorithms to solve the traveling sales man problem that creates this image: Nearest Neighbors, Greedy, Random Insertion, k-Opt. Incrementally changing curvature and ncp may also lead to interesting images. This code needs to be optimized. 
 
 
 ```
@@ -145,3 +143,4 @@ list.files(path='PATH/', pattern = '*.jpg', full.names = TRUE) %>%
 
 ```
 
+Note to self: Try using different algorithms to solve the traveling sales man problem that creates this image: Nearest Neighbors, Greedy, Random Insertion, k-Opt. Incrementally changing curvature and ncp may also lead to interesting images. This code needs to be optimized. 
