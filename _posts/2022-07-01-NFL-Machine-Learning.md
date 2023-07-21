@@ -6,10 +6,8 @@ tags: [NFL,PBP,Regression, Machine Learning]
 ---
 
 I will be using supervised learning algorithms to predict the
-categorical outcome of a play in the National Football League using 2009
-to 2023 play-by-play NFL data provided by nflfastR. In the future I imagine there will be data scientists in the defensive coordinators headset what the next play might be with a certain degree of confidence. Would this ruin the game? Maybe. But I am
-confident that football, a sport that is dear to my heart, will become
-more exciting as time goes on. On a side note: I really wish there was open access to play by play x y coordinates of the ball and players.
+categorical outcome of the next play type in the National Football League using 2009
+to 2023 play-by-play NFL data provided by nflfastR. In a dystopian future I imagine there will be data scientists in the defensive coordinators headset with powerful quantum computing machines who predict, with a high degree of confidence, what the next play will be. Would this ruin the game? Maybe. But I am confident that football, a sport that is dear to my heart, will become more exciting as time goes on. On a side note: I really wish there was open access to play by play x y coordinates of the ball and players.
 
 Load libraries
 ``` r
