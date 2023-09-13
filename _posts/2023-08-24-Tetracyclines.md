@@ -27,6 +27,6 @@ Discussion: These findings highlight the importance of tetracyclines as a first-
 a class in treating HS. The development of of newer, third-generation tetracyclines such as omadacycline, tigecycline, and
 sarecycline warrant new studies to examine the efficacies of these drugs in managing HS.
 
-![](https://raw.githubusercontent.com/tanalytical/tanalytical.github.io/main/myimages/forestplot.png)
+This project was a collaborative effort with researchers at NYMC. Thank you for allowing me to assist you with this project. 
 
-This project was a collaborative effort with researchers at NYMC. Thank you Zahidul Islam for allowing me to assist you with this project. 
+![](https://raw.githubusercontent.com/tanalytical/tanalytical.github.io/main/myimages/forestplot.png)
