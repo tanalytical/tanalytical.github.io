@@ -1,3 +1,10 @@
+---
+title: "A Comprehensive Review of the Efficacy of Tetracyclines in Treating Hidradenitis Suppurativa"
+date: 2023-08-24 00:00:00 + 0000
+categories: [Research]
+tags: [Research]
+---
+
 Title: A Comprehensive Review of the Efficacy of Tetracyclines in Treating Hidradenitis Suppurativa.
 
 Background: The etiology of hidradenitis suppurativa (HS) is multifactorial. Tetracyclines are a class of antibiotics with anti-
@@ -16,4 +23,10 @@ design, treatment protocols, and outcomes. The most common outcome used to evalu
 Summaries of the studies are shown in Table 1. Statistically significant reductions were seen for all outcomes except for DLQI in
 Ravn Jørgensen et al. when assessing doxycycline (p=0.273) and IHS4 in Caposiena Caro et al. (p=0.11).
 
+Discussion: These findings highlight the importance of tetracyclines as a first-line treatment and the effectiveness of tetracyclines as
+a class in treating HS. The development of of newer, third-generation tetracyclines such as omadacycline, tigecycline, and
+sarecycline warrant new studies to examine the efficacies of these drugs in managing HS.
+
 ![](https://raw.githubusercontent.com/tanalytical/tanalytical.github.io/main/myimages/forestplot.png)
+
+This project was a collaborative effort with researchers at NYMC. Thank you Zahidul Islam for allowing me to assist you with this project. 
