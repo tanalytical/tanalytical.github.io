@@ -92,8 +92,8 @@ Note to self: There is a way to automatically format code in github. Try to wrap
 
 I want to also look at how One Piece is trending on Google using pytrends. 
 
-![](\assets\Figure_1.png)
-![](\assets\Figure_2.png)
+![](/assets/Figure_1.png)
+![](/assets/Figure_2.png)
 
 It looks like One Piece has started trending by a LOT since August. I suspect that it is either because of the Netflix adaptation or **SPOILERS** because of what happened in the anime/manga recently. 
 
@@ -138,9 +138,9 @@ plt.show()
 
 Some more visualizations of the ratings data pulled from jikans API. 
 
-![](\assets\histogram.png)
+![](/assets/histogram.png)
 
-![](\assets\boxplot.png)
+![](/assets/boxplot.png)
 
-![](\assets\linegraph.png)
+![](/assets/linegraph.png)
 
